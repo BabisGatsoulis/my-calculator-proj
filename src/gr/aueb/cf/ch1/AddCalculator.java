@@ -9,6 +9,8 @@ public class AddCalculator {
 
         result = add(num1, num2);
 
+        System.out.println("Sum: " + result);
+
     }
 
     pupblic static int add(int a, int b){
